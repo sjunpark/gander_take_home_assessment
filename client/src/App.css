@@ -1,0 +1,22 @@
+.adding-numbers-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  left: 50%;
+  right: 50%;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.number-input {
+  margin-bottom: 4px;
+}
+
+.add-button {
+  padding: 4px;
+  margin-top: 10px;
+}
